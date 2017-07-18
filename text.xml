@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Restaurant1>
+<Restaurant>
   <Name>Riche</Name>
   <PrimaryCuisine>French</PrimaryCuisine>
   <Line1>Birger Jarlsgatan 4</Line1>
@@ -20,9 +20,9 @@
   <AdditionalCuisine>Swedish</AdditionalCuisine>
   <Description> Test Test Test </Description>
   <ImageURL>http://www.stockholmskyline.se/wp-content/uploads/stockholm-drink-riche.jpg</ImageURL>
-</Restaurant1>
+</Restaurant>
 
-<Restaurant2>
+<Restaurant>
   <Name>Taverna Brillo</Name>
   <PrimaryCuisine>Italian</PrimaryCuisine>
   <Line1>Sturegatan 6</Line1>
@@ -42,4 +42,4 @@
   <AdditionalCuisine>Swedish</AdditionalCuisine>
   <Description> Test Test Test </Description>
   <ImageURL>http://www.tavernabrillo.se/wp-content/uploads/sites/3/2015/05/startpage-header-img-NEW.jpg</ImageURL>
-</Restaurant2>
+</Restaurant>
