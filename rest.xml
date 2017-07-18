@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <Restaurant>
   <Name>Riche</Name>
   <PrimaryCuisine>French</PrimaryCuisine>
@@ -21,7 +20,6 @@
   <Description> Test Test Test </Description>
   <ImageURL>http://www.stockholmskyline.se/wp-content/uploads/stockholm-drink-riche.jpg</ImageURL>
 </Restaurant>
-
 <Restaurant>
   <Name>Taverna Brillo</Name>
   <PrimaryCuisine>Italian</PrimaryCuisine>
