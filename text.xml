@@ -1,0 +1,51 @@
+<?xml version="test1.0" encoding="TestTestTest"?>
+
+Name, PrimaryCuisine, Line1, Line2, Line3, PostalCode, City, Country, Latitude, Longtitude, Homepage, EMail, PhoneNumber, OpenHours AveragePriceThreeCourseMeal, currency, AveragePriceMainCourse, AdditionalCuisine, Description och ImageURL
+
+<Restaurant1>
+
+<Name>Riche</Name>
+<PrimaryCuisine>French</PrimaryCuisine>
+<Line1>Birger Jarlsgatan 4</Line1>
+<Line2></Line2>
+<Line3></Line3>
+<PostalCode>114 34</PostalCode>
+<City>Stockholm</Stockholm>
+<Latitude>59.3335349</Latitude>
+<Longitude>18.0756508</Longitude>
+<Homepage> http://riche.se/ </Homepage>
+<EMail>info@riche.se</EMail>
+<PhoneNumber>0046854503560</PhoneNumber>
+<OpenHours> 11.00-02.00 </OpenHours>
+<AveragePriceThreeCourseMeal>700</AveragePriceThreeCourseMeal>
+<currency>SEK</currency>
+<AveragePriceMainCourse>300</AveragePriceMainCourse>
+<AdditionalCuisine>Swedish</AdditionalCuisine>
+<Description> Test Test Test </Description>
+<ImageURL>http://www.stockholmskyline.se/wp-content/uploads/stockholm-drink-riche.jpg</ImageURL>
+
+</Restaurant1>
+
+<Restaurant2>
+
+<Name>Taverna Brillo</Name>
+<PrimaryCuisine>Italian</PrimaryCuisine>
+<Line1>Sturegatan 6</Line1>
+<Line2></Line2>
+<Line3></Line3>
+<PostalCode>114 35</PostalCode>
+<City>Stockholm</Stockholm>
+<Latitude>59.3366998</Latitude>
+<Longitude>18.0735969</Longitude>
+<Homepage> http://tavernabrillo.se/ </Homepage>
+<EMail>info@tavernabrillo.se</EMail>
+<PhoneNumber>00468519778000</PhoneNumber>
+<OpenHours> 09.00-02.00 </OpenHours>
+<AveragePriceThreeCourseMeal>600</AveragePriceThreeCourseMeal>
+<currency>SEK</currency>
+<AveragePriceMainCourse>250</AveragePriceMainCourse>
+<AdditionalCuisine>Swedish</AdditionalCuisine>
+<Description> Test Test Test </Description>
+<ImageURL>http://www.tavernabrillo.se/wp-content/uploads/sites/3/2015/05/startpage-header-img-NEW.jpg</ImageURL>
+
+</Restaurant2>
