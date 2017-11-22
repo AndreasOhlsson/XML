@@ -1,0 +1,662 @@
+<restaurants>
+  <restaurant>
+    <id>1</id>
+    <name>Riche</name>
+    <primaryCuisine>French</primaryCuisine>
+    <line1>Birger Jarlsgatan 4</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>114 34</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3335349</latitude>
+    <longitude>18.0756508</longitude>
+    <homepage> http://riche.se/ </homepage>
+    <email>info@riche.se</email>
+    <phoneNumber>0046854503560</phoneNumber>
+    <openHours> 11.00-02.00 </openHours>
+    <averagePriceThreeCourseMeal>700</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.stockholmskyline.se/wp-content/uploads/stockholm-drink-riche.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>2</id>
+    <name>Taverna Brillo</name>
+    <primaryCuisine>Italian</primaryCuisine>
+    <line1>Sturegatan 6</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>114 35</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3366998</latitude>
+    <longitude>18.0735969</longitude>
+    <homepage> http://tavernabrillo.se/ </homepage>
+    <email>info@tavernabrillo.se</email>
+    <phoneNumber>00468519778000</phoneNumber>
+    <openHours> 09.00-02.00 </openHours>
+    <averagePriceThreeCourseMeal>600</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>250</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.tavernabrillo.se/wp-content/uploads/sites/3/2015/05/startpage-header-img-NEW.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>3</id>
+    <name>Sturehof</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Stureplan 2</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>114 35</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3357264</latitude>
+    <longitude>18.0734251</longitude>
+    <homepage> http://sturehof.se/ </homepage>
+    <email>info@tsturehof.se</email>
+    <phoneNumber>004684405730</phoneNumber>
+    <openHours> 07.30-02.00 </openHours>
+    <averagePriceThreeCourseMeal>700</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>350</averagePriceMainCourse>
+    <additionalCuisine>Seafood</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://whiteguide.se/sites/default/files/imagecache/lightbox/sturehof_uteservering.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>4</id>
+    <name>Linje Tio</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Hornsbruksgatan 24</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>117 34</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3161729</latitude>
+    <longitude>118.0349248</longitude>
+    <homepage>http://linjetio.com</homepage>
+    <email>bokning@linjetio.com</email>
+    <phoneNumber>00468220021</phoneNumber>
+    <openHours> 17.00-03.00 </openHours>
+    <averagePriceThreeCourseMeal>600</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://media.linjetio.com/2017/02/bg01-1024x683.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>5</id>
+    <name>Tranan</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Karlbergsvägen 14</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>113 27</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3431722</latitude>
+    <longitude>18.0490175</longitude>
+    <homepage>http://www.tranan.se</homepage>
+    <email>tranan@tranan.se</email>
+    <phoneNumber>0046852728100</phoneNumber>
+    <openHours> 11.30-23.00 </openHours>
+    <averagePriceThreeCourseMeal>550</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>Seafood</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.timehotel.se/files/modules/ImageGallery/galleries/13/Tranan%20images.jpg</imageURL>
+  </restaurant>
+   <restaurant>
+    <id>6</id>
+    <name>Matboden Södermalm</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Folkungagatan 78</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>116 22</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3147439</latitude>
+    <longitude>18.0786171</longitude>
+    <homepage>http://www.matbod.se/sodermalm/</homepage>
+    <email>info@matbod.se</email>
+    <phoneNumber>004686404261</phoneNumber>
+    <openHours>17:00-00.00</openHours>
+    <averagePriceThreeCourseMeal>550</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>French</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://img.static-bookatable.com/matboden-sodermalm-stockholm-1.jpg?id=650c7589-7b2b-403d-9615-3f26e5cce08a.jpg&amp;404=bat2/404-restaurant.jpg&amp;width=600&amp;height=400&amp;scale=both&amp;mode=crop</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>7</id>
+    <name>Trattorian</name>
+    <primaryCuisine>Italian</primaryCuisine>
+    <line1>Norr Mälarstrand, Kajplats 464</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>112 20</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3264775</latitude>
+    <longitude>18.0436902</longitude>
+    <homepage>http://www.trattorian.se</homepage>
+    <email>reservation@trattorian.se</email>
+    <phoneNumber>00468868423870</phoneNumber>
+    <openHours>17:00-00.00</openHours>
+    <averagePriceThreeCourseMeal>600</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.trattorian.se/images/1440/trattorian-02.jpg</imageURL>
+  </restaurant>
+   <restaurant>
+    <id>8</id>
+    <name>Mancini</name>
+    <primaryCuisine>Italian</primaryCuisine>
+    <line1>Tunnelgatan 1A</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>111 37</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3369365</latitude>
+    <longitude>18.0641204</longitude>
+    <homepage>http://www.mancini.se</homepage>
+    <email>info@mancini.se</email>
+    <phoneNumber>00468215310</phoneNumber>
+    <openHours>11:00-00.00</openHours>
+    <averagePriceThreeCourseMeal>600</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.trattorian.se/images/1440/trattorian-02.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>9</id>
+    <name>Ardbeg Embassy</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Västerlånggatan 68</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>111 29</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3230959</latitude>
+    <longitude>18.0719044</longitude>
+    <homepage>http://www.ardbegembassy.se</homepage>
+    <email>info@ardbegembassy.se</email>
+    <phoneNumber>004687919090</phoneNumber>
+    <openHours>16:00-23.00</openHours>
+    <averagePriceThreeCourseMeal>500</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>250</averagePriceMainCourse>
+    <additionalCuisine>British</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.ardbegembassy.se/wp-content/uploads/2012/04//slide-2.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>10</id>
+    <name>Urban Deli Sveavägen</name>
+    <primaryCuisine>Seafood</primaryCuisine>
+    <line1>Sveavägen 44</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>111 34</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3371076</latitude>
+    <longitude>18.0623829</longitude>
+    <homepage>http://www.urbandeli.org/sveavagen/</homepage>
+    <email>infosveavagen@urbandeli.org</email>
+    <phoneNumber>0046842550020</phoneNumber>
+    <openHours>07:00-23.00</openHours>
+    <averagePriceThreeCourseMeal>550</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.ardbegembassy.se/wp-content/uploads/2012/04//slide-2.jpg</imageURL>
+  </restaurant>
+   <restaurant>
+    <id>11</id>
+    <name>Grill</name>
+    <primaryCuisine>BBQ</primaryCuisine>
+    <line1>Drottninggatan 89</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>113 60</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3390460</latitude>
+    <longitude>18.0560029</longitude>
+    <homepage>http://grill.se</homepage>
+    <email>info@grill.se</email>
+    <phoneNumber>00468314530</phoneNumber>
+    <openHours>17:00-Late</openHours>
+    <averagePriceThreeCourseMeal>700</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>350</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://img.static-bookatable.com/grill-vasastan-stockholm-1.jpg?id=60b5c4a5fe9e3fb888825bb8f80f04a6.jpg&amp;404=bat2/404-restaurant.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>12</id>
+    <name>SMAK</name>
+    <primaryCuisine>International</primaryCuisine>
+    <line1>Oxtorgsgatan 14</line1>
+    <line2></line2>
+    <line3>111 57</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3352302</latitude>
+    <longitude>18.0653280</longitude>
+    <homepage>https://smakstockholm.se</homepage>
+    <email>info@gsmakstockholm.se</email>
+    <phoneNumber>00468220952</phoneNumber>
+    <openHours>17:00-01:00</openHours>
+    <averagePriceThreeCourseMeal>800</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://gruppf12.com/wp-content/uploads/2014/09/IMG_5545-1920x1280.jpg</imageURL>
+  </restaurant>
+   <restaurant>
+    <id>13</id>
+    <name>Diwan</name>
+    <primaryCuisine>Persian</primaryCuisine>
+    <line1>Valhallavägen 153</line1>
+    <line2></line2>
+    <line3>115 31</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3410536</latitude>
+    <longitude>18.0917383</longitude>
+    <homepage>http://www.diwan.se</homepage>
+    <email>info@diwan.se</email>
+    <phoneNumber>004686673757</phoneNumber>
+    <openHours>10:30-22:00</openHours>
+    <averagePriceThreeCourseMeal>600</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>250</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.diwan.se/images/slideshow/slide4.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>14</id>
+    <name>Miss Voon</name>
+    <primaryCuisine>Asian</primaryCuisine>
+    <line1>Sturegatan 22</line1>
+    <line2></line2>
+    <line3>114 36</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3385299</latitude>
+    <longitude>18.0749965</longitude>
+    <homepage>http://missvoon.se</homepage>
+    <email>info@missvoon.se</email>
+    <phoneNumber>0046850524470</phoneNumber>
+    <openHours>17:00-23:00</openHours>
+    <averagePriceThreeCourseMeal>900</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>350</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://gruppf12.com/wp-content/uploads/2014/09/IMG_5274-1920x1280.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>15</id>
+    <name>Publico</name>
+    <primaryCuisine>South American</primaryCuisine>
+    <line1>Rödbotorget 2</line1>
+    <line2></line2>
+    <line3>111 52</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3286847</latitude>
+    <longitude>18.0639955</longitude>
+    <homepage>http://publico.se</homepage>
+    <email>info@publico.se</email>
+    <phoneNumber>0046850524416</phoneNumber>
+    <openHours>17:00-01:00</openHours>
+    <averagePriceThreeCourseMeal>700</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>320</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://publico.se/wp-content/uploads/2015/02/publico-sofa-seating.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>16</id>
+    <name>El Cielo</name>
+    <primaryCuisine>South American</primaryCuisine>
+    <line1>Fleminggatan 22A</line1>
+    <line2></line2>
+    <line3>112 32</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3334419</latitude>
+    <longitude>18.0429664</longitude>
+    <homepage>http://www.elcielo.se</homepage>
+    <email>info@elcielo.se</email>
+    <phoneNumber></phoneNumber>
+    <openHours>17:00-01:00</openHours>
+    <averagePriceThreeCourseMeal>750</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.elcielo.se/images/slideshow/008.jpg</imageURL>
+  </restaurant>
+   <restaurant>
+    <id>17</id>
+    <name>Oyster Bar</name>
+    <primaryCuisine>Seafood</primaryCuisine>
+    <line1>Storgatan 20</line1>
+    <line2></line2>
+    <line3>114 55</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3346517 </latitude>
+    <longitude>18.0847526</longitude>
+    <homepage>http://www.oysterbar.se</homepage>
+    <email>info@oysterbar.se</email>
+    <phoneNumber>004686628800</phoneNumber>
+    <openHours>17:00-01:00</openHours>
+    <averagePriceThreeCourseMeal>750</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.oysterbar.se/wp-content/uploads/2011/09/ostron-groupon.jpg</imageURL>
+  </restaurant>
+     <restaurant>
+    <id>18</id>
+    <name>Il Conte</name>
+    <primaryCuisine>Italian</primaryCuisine>
+    <line1>Grevgatan 9</line1>
+    <line2></line2>
+    <line3>114 53</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3328549</latitude>
+    <longitude>18.0836892</longitude>
+    <homepage>https://ilconte.nu</homepage>
+    <email>info@ilconte.nu</email>
+    <phoneNumber>004686612628</phoneNumber>
+    <openHours>17:00-23:30</openHours>
+    <averagePriceThreeCourseMeal>750</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://u.tfstatic.com/restaurant_photos/018/69018/169/612/il-conte-rum-c16f3.jpg</imageURL>
+  </restaurant>
+     <restaurant>
+    <id>19</id>
+    <name>Orkidé Thai Restaurang</name>
+    <primaryCuisine>Thai</primaryCuisine>
+    <line1>Medborgarplatsen 3</line1>
+    <line2></line2>
+    <line3>118 72</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3149917</latitude>
+    <longitude>18.0711507</longitude>
+    <homepage>https://restaurangorkide.se</homepage>
+    <email>info@restaurangorkide.se</email>
+    <phoneNumber>004686418865</phoneNumber>
+    <openHours>12:00-23:00</openHours>
+    <averagePriceThreeCourseMeal>400</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>150</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://u.tfstatic.com/restaurant_photos/592/48592/169/612/orkide-thai-rum-c2a2e.jpg</imageURL>
+  </restaurant>
+     <restaurant>
+    <id>20</id>
+    <name>Bistro Bon Sofo</name>
+    <primaryCuisine>French</primaryCuisine>
+    <line1>Renstiernas Gata 30</line1>
+    <line2></line2>
+    <line3>116 31</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3134079</latitude>
+    <longitude>18.0846241</longitude>
+    <homepage>http://bistrobon.se</homepage>
+    <email>info@bistrobon.se</email>
+    <phoneNumber>004686401919</phoneNumber>
+    <openHours>17:00-23:00</openHours>
+    <averagePriceThreeCourseMeal>550</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>250</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://static.thatsup.co/content/img/place/b/i/f7352bd8125e0b3a7174bd10d65304d7.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>21</id>
+    <name>Villagio Grill Italiano</name>
+    <primaryCuisine>Italian</primaryCuisine>
+    <line1>Skeppargatan 16</line1>
+    <line2></line2>
+    <line3>114 52</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3333419</latitude>
+    <longitude>18.0827406</longitude>
+    <homepage>https://www.villaggio.se</homepage>
+    <email>info@villagio.se</email>
+    <phoneNumber>004686612730</phoneNumber>
+    <openHours>17:00-23:00</openHours>
+    <averagePriceThreeCourseMeal>700</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>350</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://static.thatsup.co/content/img/place/b/i/f7352bd8125e0b3a7174bd10d65304d7.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>22</id>
+    <name>Teatergrillen</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Nybrogatan 3</line1>
+    <line2></line2>
+    <line3>114 34</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3335095</latitude>
+    <longitude>18.0761740</longitude>
+    <homepage>http://teatergrillen.se</homepage>
+    <email>info@teatergrillen.se</email>
+    <phoneNumber>0046854503565</phoneNumber>
+    <openHours>17:00-01:00</openHours>
+    <averagePriceThreeCourseMeal>1000</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>400</averagePriceMainCourse>
+    <additionalCuisine>French</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://teatergrillen.se/wp-content/uploads/sites/9/2017/01/bar_head-1.png</imageURL>
+  </restaurant>
+    <restaurant>
+    <id>23</id>
+    <name>Buco Nero</name>
+    <primaryCuisine>Italian</primaryCuisine>
+    <line1>Roslagsgatan 4</line1>
+    <line2></line2>
+    <line3>113 55</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3447198</latitude>
+    <longitude>18.0617322</longitude>
+    <homepage>http://buconero.se</homepage>
+    <email>info@buconero.se</email>
+    <phoneNumber>00468221936</phoneNumber>
+    <openHours>17:00-22:00</openHours>
+    <averagePriceThreeCourseMeal>750</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://img.static-bookatable.com/buco-nero-vasastan-stockholm-1.jpg?id=de542d87-a40b-47d0-9e87-84b7bef5a5e9.jpg&amp;404=bat2/404-restaurant.jpg&amp;width=600&amp;height=400&amp;scale=both&amp;mode=crop</imageURL>
+  </restaurant>
+      <restaurant>
+    <id>24</id>
+    <name>Växthuset Under Bron</name>
+    <primaryCuisine>Vegitarian</primaryCuisine>
+    <line1>Hammarby Slussväg 2</line1>
+    <line2></line2>
+    <line3>118 60</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.304501</latitude>
+    <longitude>18.078484</longitude>
+    <homepage>http://www.restaurangvaxthuset.se</homepage>
+    <email>info@restaurangvaxthuset.se</email>
+    <phoneNumber>004686442033</phoneNumber>
+    <openHours>09:00-22:00</openHours>
+    <averagePriceThreeCourseMeal>550</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>200</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://img.static-bookatable.com/vaxthusettradgarden-sodermalm-stockholm-3.jpg?id=89c1dfc3-6b78-4824-a1ca-89ebff08645a.jpg&amp;404=bat2/404-restaurant.jpg&amp;width=600&amp;height=400&amp;scale=both&amp;mode=crop</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>25</id>
+    <name>Spisa hos Helena</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Scheelegatan 18</line1>
+    <line2></line2>
+    <line3>112 28</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.331006</latitude>
+    <longitude>18.044475</longitude>
+    <homepage>https://www.spisahoshelena.se</homepage>
+    <email>info@spisahoshelena.se</email>
+    <phoneNumber>004686544926</phoneNumber>
+    <openHours>11:00-22:00</openHours>
+    <averagePriceThreeCourseMeal>600</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>250</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://static.wixstatic.com/media/b54965_1b5d8cd1b83e4ae998aa368e437cc521.jpg/v1/fill/w_1578,h_1052,al_c,q_90,usm_0.66_1.00_0.01/b54965_1b5d8cd1b83e4ae998aa368e437cc521.jpg</imageURL>
+  </restaurant>
+   <restaurant>
+    <id>26</id>
+    <name>Restaurang Waipo</name>
+    <primaryCuisine>Chinese</primaryCuisine>
+    <line1>Drottninggatan 25</line1>
+    <line2></line2>
+    <line3>111 51</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.330440</latitude>
+    <longitude>18.064528</longitude>
+    <homepage>https://waipo.se</homepage>
+    <email>info@waipo.se</email>
+    <phoneNumber>00468211301</phoneNumber>
+    <openHours>12:00-23:00</openHours>
+    <averagePriceThreeCourseMeal>400</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>170</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://img.static-bookatable.com/restaurang-waipo-norrmalmcity-stockholm-1.jpg?id=10e5374eabdbde981f433bf03f140c61.jpg&amp;404=bat2/404-restaurant.jpg&amp;width=600&amp;height=400&amp;scale=both&amp;mode=crop</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>27</id>
+    <name>Prinsen</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Mäster Samuelsgatan 4</line1>
+    <line2></line2>
+    <line3>111 44</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.334399</latitude>
+    <longitude>18.073288</longitude>
+    <homepage>http://restaurangprinsen.eu</homepage>
+    <email>info@wprinsen.eu</email>
+    <phoneNumber>0046868423810</phoneNumber>
+    <openHours>12:00-23:30</openHours>
+    <averagePriceThreeCourseMeal>800</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>350</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://img.static-bookatable.com/prinsen-norrmalmcity-stockholm-1.jpg?id=fc65dec2e6a308a63dcfb25d722ff5da.jpg&amp;404=bat2/404-restaurant.jpg&amp;width=600&amp;height=400&amp;scale=both&amp;mode=crop</imageURL>
+  </restaurant>
+    <restaurant>
+    <id>28</id>
+    <name>Restaurang Åberg Nilsson</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Vegagatan 15</line1>
+    <line2></line2>
+    <line3>113 29</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.342130</latitude>
+    <longitude>18.050204</longitude>
+    <homepage>http://www.abergnilsson.se</homepage>
+    <email>info@abergnilsson.se</email>
+    <phoneNumber>00468341219</phoneNumber>
+    <openHours>17:00-23:00</openHours>
+    <averagePriceThreeCourseMeal>500</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>250</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://img.static-bookatable.com/restaurang-abergnilsson-vasastan-stockholm-1.jpg?id=68b6d77c96bd464b2908733c8a9f3429.jpg&amp;404=bat2/404-restaurant.jpg&amp;width=600&amp;height=400&amp;scale=both&amp;mode=crop</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>29</id>
+    <name>Mister French</name>
+    <primaryCuisine>French</primaryCuisine>
+    <line1>Tullhus 2 Skeppsbrokajen</line1>
+    <line2></line2>
+    <line3>111 30</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.323909</latitude>
+    <longitude>18.075740</longitude>
+    <homepage>https://www.mrfrench.se</homepage>
+    <email>info@mrfrench.se</email>
+    <phoneNumber>00468202095</phoneNumber>
+    <openHours>11:30-01:00</openHours>
+    <averagePriceThreeCourseMeal>600</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://img.static-bookatable.com/mr-french-gamla-stan-stockholm-1.jpg?id=374431e23e8eb86fe4e07da74e2f2616.jpg&amp;404=bat2/404-restaurant.jpg&amp;width=600&amp;height=400&amp;scale=both&amp;mode=crop</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>30</id>
+    <name>Restaurang Timmermans 1857</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Timmermansgatan 35</line1>
+    <line2></line2>
+    <line3>118 55</line3>
+    <postalCode></postalCode>
+    <city>Stockholm</city>
+    <latitude>59.315370</latitude>
+    <longitude>18.061660</longitude>
+    <homepage>http://www.timmermans1857.se</homepage>
+    <email>info@timmermans1857.se</email>
+    <phoneNumber>004687149029</phoneNumber>
+    <openHours>16:00-24:00</openHours>
+    <averagePriceThreeCourseMeal>500</averagePriceThreeCourseMeal>
+    <currency></currency>
+    <averagePriceMainCourse>230</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>https://img.static-bookatable.com/restaurang-timmermans-1857-sodermalm-stockholm-1.jpg?id=ddfce7bfa57017fb84f5b946ce7fad40.jpg&amp;404=bat2/404-restaurant.jpg&amp;width=600&amp;height=400&amp;scale=both&amp;mode=crop</imageURL>
+  </restaurant>
+</restaurants>
