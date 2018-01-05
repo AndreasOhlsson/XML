@@ -1,0 +1,112 @@
+<restaurants>
+  <restaurant>
+    <id>1</id>
+    <name>Riche</name>
+    <primaryCuisine>French</primaryCuisine>
+    <line1>Birger Jarlsgatan 4</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>114 34</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3335349</latitude>
+    <longitude>18.0756508</longitude>
+    <homepage> http://riche.se/ </homepage>
+    <email>info@riche.se</email>
+    <phoneNumber>0046854503560</phoneNumber>
+    <openHours> 11.00-02.00 </openHours>
+    <averagePriceThreeCourseMeal>700</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.stockholmskyline.se/wp-content/uploads/stockholm-drink-riche.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>2</id>
+    <name>Taverna Brillo</name>
+    <primaryCuisine>Italian</primaryCuisine>
+    <line1>Sturegatan 6</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>114 35</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3366998</latitude>
+    <longitude>18.0735969</longitude>
+    <homepage> http://tavernabrillo.se/ </homepage>
+    <email>info@tavernabrillo.se</email>
+    <phoneNumber>00468519778000</phoneNumber>
+    <openHours> 09.00-02.00 </openHours>
+    <averagePriceThreeCourseMeal>600</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>250</averagePriceMainCourse>
+    <additionalCuisine>Swedish</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.tavernabrillo.se/wp-content/uploads/sites/3/2015/05/startpage-header-img-NEW.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>3</id>
+    <name>Sturehof</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Stureplan 2</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>114 35</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3357264</latitude>
+    <longitude>18.0734251</longitude>
+    <homepage> http://sturehof.se/ </homepage>
+    <email>info@tsturehof.se</email>
+    <phoneNumber>004684405730</phoneNumber>
+    <openHours> 07.30-02.00 </openHours>
+    <averagePriceThreeCourseMeal>700</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>350</averagePriceMainCourse>
+    <additionalCuisine>Seafood</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://whiteguide.se/sites/default/files/imagecache/lightbox/sturehof_uteservering.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>4</id>
+    <name>Linje Tio</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Hornsbruksgatan 24</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>117 34</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3161729</latitude>
+    <longitude>18.0349248</longitude>
+    <homepage>http://linjetio.com</homepage>
+    <email>bokning@linjetio.com</email>
+    <phoneNumber>00468220021</phoneNumber>
+    <openHours> 17.00-03.00 </openHours>
+    <averagePriceThreeCourseMeal>600</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine></additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://media.linjetio.com/2017/02/bg01-1024x683.jpg</imageURL>
+  </restaurant>
+  <restaurant>
+    <id>5</id>
+    <name>Tranan</name>
+    <primaryCuisine>Swedish</primaryCuisine>
+    <line1>Karlbergsvägen 14</line1>
+    <line2></line2>
+    <line3></line3>
+    <postalCode>113 27</postalCode>
+    <city>Stockholm</city>
+    <latitude>59.3431722</latitude>
+    <longitude>18.0490175</longitude>
+    <homepage>http://www.tranan.se</homepage>
+    <email>tranan@tranan.se</email>
+    <phoneNumber>0046852728100</phoneNumber>
+    <openHours> 11.30-23.00 </openHours>
+    <averagePriceThreeCourseMeal>550</averagePriceThreeCourseMeal>
+    <currency>SEK</currency>
+    <averagePriceMainCourse>300</averagePriceMainCourse>
+    <additionalCuisine>Seafood</additionalCuisine>
+    <description> Test Test Test </description>
+    <imageURL>http://www.timehotel.se/files/modules/ImageGallery/galleries/13/Tranan%20images.jpg</imageURL>
+  </restaurant>
+</restaurants>
